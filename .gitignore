@@ -1,0 +1,8 @@
+/.vscode/
+/node_modules/
+/output/
+/dist/
+/document/
+.history/
+.DS_Store
+yarn-error.log
